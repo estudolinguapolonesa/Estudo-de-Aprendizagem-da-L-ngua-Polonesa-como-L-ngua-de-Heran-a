@@ -1,0 +1,7 @@
+echo "# Estudo-de-Aprendizagem-da-L-ngua-Polonesa-como-L-ngua-de-Heran-a" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/estudolinguapolonesa/Estudo-de-Aprendizagem-da-L-ngua-Polonesa-como-L-ngua-de-Heran-a.git
+git push -u origin main
